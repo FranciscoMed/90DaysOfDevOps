@@ -1,0 +1,54 @@
+# DevOps Learning Plan 
+
+## Provisional Roadmap
+
+- Operating Systems
+  - FreeBSD
+  - Ubuntu/Debian
+  - Red Hat
+- Shell
+  - Bash
+    - Process monitoring
+    - Performance Monitoring
+    - Networking Tools
+    - Nano
+- Version Control
+  - GitLab
+- How to Setup
+  - Load Balancer
+  - Reverse Proxy
+  - Forward Proxy
+  - Firewall
+  - Caching Server
+  - Servers
+    - Tomcat
+    - Nginx
+    - Apache
+- Networking & Protocols
+  - SSL/TLS
+  - SSH
+- Provisioning
+  - CloudFormation
+- Configuration Management
+  - Ansible
+- CI/CD
+  - Github Actions
+  - GitLab CI
+- Secret Management
+  - Hashicorp Vault
+- Monitoring
+  - Zabbix
+  - Prometheus
+- Logging
+  - Loki
+- Container Orchestration
+  - AKS
+  - Kubernetes
+- Artifact Management
+  - Artifactory
+- GitOps
+  - ArgoCD
+- Service Mesh
+  - Consul
+  - Istio
+- 
