@@ -4,7 +4,7 @@
 
 - Operating Systems
   - FreeBSD
-  - Ubuntu/Debian
+  - ~Ubuntu/Debian~
   - Red Hat
 - Shell
   - Bash
